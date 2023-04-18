@@ -1,5 +1,5 @@
-# Pontus Vision Orient DB graph
+# Pontus Vision AWS Cloud Directory
 
-This project has the Pontus Vision modifications made to make OrientDB work like a lambda function.
+This project has the Pontus Vision modifications on AWSS Cloud Directory.
 
 
